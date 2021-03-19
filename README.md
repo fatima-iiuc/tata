@@ -1,1 +1,1 @@
-# tata
+Hi, my name is Fatima Ahmed. I am a student of CSE department in International Islamic University Chittagong.I like programming ,gardening and writing.I mostly like to think about a problem or a fact that always occuers in our daily life or in our behaviours.I try to learn from that facts,situations and behaviours.In programming, i also try to understand the problems and try to find out a solution.
